@@ -1,1 +1,4 @@
 *.csv
+fraud_model/
+fraud_detection_app-data/
+.ipynb_checkpoints/
