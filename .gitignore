@@ -2,3 +2,5 @@
 fraud_model/
 fraud_detection_app-data/
 .ipynb_checkpoints/
+*.sh
+__pycache__/
